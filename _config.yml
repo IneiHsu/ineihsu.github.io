@@ -1,3 +1,25 @@
-theme: jekyll-theme-minimal
-title: Inei's homepage
-description: Bookmark this to keep an eye on my project updates!
+# theme: jekyll-theme-minimal
+title: "Ineihsu's Portfolio"
+name: "Your Name (Ineihsu)"
+description: "Research on Child Abuse, Oral Health, and Forensic Medicine"
+url: "https://ineihsu.github.io"
+
+# 著者情報
+author:
+  name: "Ineihsu"
+  avatar: "/images/profile.jpg"
+  bio: "歯科保健と法医学の視点から児童虐待防止を研究しています。"
+  location: "Japan"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ineihsu"
+
+# ナビゲーション設定
+navigation:
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  - title: "CV"
+    url: /cv/
