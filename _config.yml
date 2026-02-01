@@ -1,25 +1,37 @@
-# theme: jekyll-theme-minimal
-title: "Ineihsu's Portfolio"
-name: "Your Name (Ineihsu)"
-description: "Research on Child Abuse, Oral Health, and Forensic Medicine"
+# サイト設定
+title: "Yining S. Xu | Portfolio"
+name: "Yining S. Xu (許 以寧)"
+description: "Researcher in Child Abuse, Oral Health, and Public Health"
 url: "https://ineihsu.github.io"
+baseurl: "" # サブディレクトリで運用しない場合は空
 
 # 著者情報
 author:
-  name: "Ineihsu"
-  avatar: "/images/profile.jpg"
+  name: "Yining S. Xu"
+  avatar: "/images/profile.jpg" # imagesフォルダに写真を置く
   bio: "歯科保健と法医学の視点から児童虐待防止を研究しています。"
-  location: "Japan"
+  location: "Kyoto/Tokyo, Japan"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ineihsu"
+    - label: "Researchmap"
+      icon: "fas fa-fw fa-link"
+      url: "https://researchmap.jp/inei_yining"
 
 # ナビゲーション設定
 navigation:
+  - title: "About"
+    url: /
   - title: "Publications"
     url: /publications/
   - title: "Talks"
     url: /talks/
   - title: "CV"
     url: /cv/
+
+# Jekyll設定 (AcademicPages/Minimal Mistakes用)
+theme: jekyll-theme-minimal-mistakes
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
