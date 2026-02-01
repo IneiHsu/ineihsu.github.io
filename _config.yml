@@ -30,6 +30,9 @@ navigation:
   - title: "CV"
     url: /cv/
 
+include:
+  - _pages
+
 # Jekyll設定 (AcademicPages/Minimal Mistakes用)
 remote_theme: mmistakes/minimal-mistakes
 plugins:
@@ -37,6 +40,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-feed
 
 collections:
   publications:
