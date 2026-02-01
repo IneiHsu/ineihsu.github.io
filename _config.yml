@@ -35,3 +35,11 @@ theme: jekyll-theme-minimal-mistakes
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+collections:
+  publications:
+    output: true
+    permalink: /publication/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/

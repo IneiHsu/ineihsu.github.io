@@ -1,4 +1,9 @@
-# Publications & Presentations
+---
+layout: single
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
 ## 学術論文 (Peer-reviewed Papers)
 
