@@ -33,5 +33,5 @@ navigation:
 # Jekyll設定 (AcademicPages/Minimal Mistakes用)
 theme: jekyll-theme-minimal-mistakes
 plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
