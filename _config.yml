@@ -31,10 +31,9 @@ navigation:
     url: /cv/
 
 # Jekyll設定 (AcademicPages/Minimal Mistakes用)
-theme: jekyll-theme-minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+  - jekyll-remote-theme
 
 collections:
   publications:
