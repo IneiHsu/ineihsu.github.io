@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Graduate School of Advanced Integrated Studies, **Kyoto University**, and a Special Researcher at the Graduate School of Public Health, **Teikyo University**.
+I am a Ph.D. student at the GSAIS, **Kyoto University**, and a Special Researcher at the Graduate School of Public Health, **Teikyo University**.
 
 My research interests lie in **Data Science** and **Child Maltreatment (Child Abuse)**. I focus on using data-driven approaches to understand and address public health challenges, particularly in the context of child welfare and infectious diseases.
 
