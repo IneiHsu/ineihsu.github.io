@@ -1,6 +1,7 @@
 ---
 title: "Determinants of COVID-19 Outbreak Size in Elderly Residential Facilities in Okinawa Prefecture, Japan, April to June 2022"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-11-01-determinants-covid-19-outbreak
 date: 2025-11-01
 venue: 'IJID Regions'

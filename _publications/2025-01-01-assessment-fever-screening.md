@@ -1,6 +1,7 @@
 ---
 title: "Assessment of fever screening at airports in detecting domestic passengers infected with SARS-CoV-2, 2020-2022, Okinawa prefecture, Japan"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-assessment-fever-screening
 date: 2025-01-01
 venue: 'TBD'

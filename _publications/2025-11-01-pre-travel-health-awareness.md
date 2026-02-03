@@ -1,6 +1,7 @@
 ---
 title: "Pre-travel health awareness and perceptions of voluntary airport PCR testing during COVID-19: A cross-sectional study in Okinawa, Japan"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-11-01-pre-travel-health-awareness
 date: 2025-11-01
 venue: 'IJID Regions'
