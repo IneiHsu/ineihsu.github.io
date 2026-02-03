@@ -24,14 +24,14 @@ repository               : "IneiHsu/ineihsu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   name             : "Yining Xu"
   pronouns         : "she/her"  
   bio              : "Graduate School of Advanced Integrated Studies, Kyoto University<br>Special Researcher, Teikyo University"
   location         : "Kyoto/Tokyo, Japan"
   employer         : "Kyoto University / Teikyo University"
   uri              : # URL
-  email            : # "none@example.org" 
+  email            : "ineikyos [at] gmail.com" 
 
   # Academic websites
   academia         : # URL
